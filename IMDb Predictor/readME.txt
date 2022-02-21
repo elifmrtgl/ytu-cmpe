@@ -1,0 +1,1 @@
+This code is written in Python to study AI and Python's libraries. After doing data manipulations like throwing unnecesarry columns, filling empyt rows etc. Multiple Linear Regression is used to calculate the IMDb scores. 
